@@ -10,7 +10,7 @@ Kumpulan writeup CTF yang saya kerjakan sebagai bagian dari proses belajar offen
 
 | Nama | Tahun | Kategori | Posisi |
 |------|-------|----------|--------|
-| [Hackfest0x09](./hackfest0x09/) | 2025 | Web, Crypto, Forensic, Misc, OSINT | Top 10 Individual |
+| [Hackfest0x09](./competitions/hackfest0x09/) | 2025 | Web, Crypto, Forensic, Misc, OSINT | Top 10 Individual |
 
 ---
 
